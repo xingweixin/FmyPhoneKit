@@ -1,0 +1,16 @@
+PODS:
+  - FmyPhoneKit (0.1.0)
+
+DEPENDENCIES:
+  - FmyPhoneKit (from `../`)
+
+EXTERNAL SOURCES:
+  FmyPhoneKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FmyPhoneKit: 717ebe5c90b58f37b80e6cc9cdc710db433bd3de
+
+PODFILE CHECKSUM: eccda41f90e9a76a2bfe5fa51af4b2833d124372
+
+COCOAPODS: 1.10.1
